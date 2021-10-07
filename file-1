@@ -3,4 +3,4 @@
 echo " iam $1"
 echo "this is class $2"
 echo "$0"
-
+echo "&&&&&&&&&&&&&&&"
